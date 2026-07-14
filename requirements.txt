@@ -1,4 +1,4 @@
 pyrogram>=2.0.0
 tgcrypto
-anthropic>=0.40.0
+google-generativeai>=0.8.0
 flask>=3.0.0
